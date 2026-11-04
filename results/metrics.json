@@ -1,0 +1,12 @@
+{
+  "test_accuracy": 0.9932699920823437,
+  "test_accuracy_tta": 0.992794930934906,
+  "test_errors": 85,
+  "macro_f1": 0.9931711466416636,
+  "best_val_accuracy": 0.9912280440330505,
+  "parameters": 3321263,
+  "training_minutes": 8.173439041773479,
+  "throughput_images_per_s": 10164.634318844272,
+  "latency_ms": 1.9604660000186414,
+  "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU"
+}

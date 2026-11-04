@@ -1,0 +1,73 @@
+corruption,level,model,acc
+Gaussian noise (std),0.0,final model,99.32699799537659
+Gaussian noise (std),0.0,no STN,99.13697242736816
+Gaussian noise (std),0.0,no augmentation,97.39509224891663
+Gaussian noise (std),0.05,final model,99.26365613937378
+Gaussian noise (std),0.05,no STN,99.06571507453918
+Gaussian noise (std),0.05,no augmentation,96.89627885818481
+Gaussian noise (std),0.1,final model,98.96278381347656
+Gaussian noise (std),0.1,no STN,98.74109029769897
+Gaussian noise (std),0.1,no augmentation,92.96120405197144
+Gaussian noise (std),0.15,final model,98.06809425354004
+Gaussian noise (std),0.15,no STN,97.43468165397644
+Gaussian noise (std),0.15,no augmentation,85.81156134605408
+Gaussian noise (std),0.2,final model,95.81155776977539
+Gaussian noise (std),0.2,no STN,94.73475813865662
+Gaussian noise (std),0.2,no augmentation,77.5534451007843
+Gaussian noise (std),0.3,final model,88.71734142303467
+Gaussian noise (std),0.3,no STN,87.44259476661682
+Gaussian noise (std),0.3,no augmentation,62.17735409736633
+"Gaussian blur (sigma, px)",0.0,final model,99.32699799537659
+"Gaussian blur (sigma, px)",0.0,no STN,99.13697242736816
+"Gaussian blur (sigma, px)",0.0,no augmentation,97.39509224891663
+"Gaussian blur (sigma, px)",0.5,final model,99.29533004760742
+"Gaussian blur (sigma, px)",0.5,no STN,99.15280938148499
+"Gaussian blur (sigma, px)",0.5,no augmentation,97.32382893562317
+"Gaussian blur (sigma, px)",1.0,final model,99.17656183242798
+"Gaussian blur (sigma, px)",1.0,no STN,99.12905693054199
+"Gaussian blur (sigma, px)",1.0,no augmentation,96.832937002182
+"Gaussian blur (sigma, px)",1.5,final model,98.89944791793823
+"Gaussian blur (sigma, px)",1.5,no STN,98.8440215587616
+"Gaussian blur (sigma, px)",1.5,no augmentation,95.5898642539978
+"Gaussian blur (sigma, px)",2.0,final model,98.32937121391296
+"Gaussian blur (sigma, px)",2.0,no STN,97.81472682952881
+"Gaussian blur (sigma, px)",2.0,no augmentation,93.07205080986023
+"Gaussian blur (sigma, px)",2.5,final model,95.89865207672119
+"Gaussian blur (sigma, px)",2.5,no STN,95.2177345752716
+"Gaussian blur (sigma, px)",2.5,no augmentation,85.44734716415405
+"Occlusion (patch size, px)",0.0,final model,99.32699799537659
+"Occlusion (patch size, px)",0.0,no STN,99.13697242736816
+"Occlusion (patch size, px)",0.0,no augmentation,97.39509224891663
+"Occlusion (patch size, px)",8.0,final model,99.00237321853638
+"Occlusion (patch size, px)",8.0,no STN,98.63024353981018
+"Occlusion (patch size, px)",8.0,no augmentation,95.74030041694641
+"Occlusion (patch size, px)",12.0,final model,98.15518260002136
+"Occlusion (patch size, px)",12.0,no STN,97.53760695457458
+"Occlusion (patch size, px)",12.0,no augmentation,92.03483462333679
+"Occlusion (patch size, px)",16.0,final model,95.6136167049408
+"Occlusion (patch size, px)",16.0,no STN,93.98258328437805
+"Occlusion (patch size, px)",16.0,no augmentation,84.20427441596985
+"Occlusion (patch size, px)",20.0,final model,88.65399956703186
+"Occlusion (patch size, px)",20.0,no STN,85.46318411827087
+"Occlusion (patch size, px)",20.0,no augmentation,68.70942115783691
+"Occlusion (patch size, px)",24.0,final model,74.22803044319153
+"Occlusion (patch size, px)",24.0,no STN,68.99445652961731
+"Occlusion (patch size, px)",24.0,no augmentation,44.6951687335968
+Rotation (degrees),0.0,final model,99.32699799537659
+Rotation (degrees),0.0,no STN,99.13697242736816
+Rotation (degrees),0.0,no augmentation,97.39509224891663
+Rotation (degrees),10.0,final model,99.16073083877563
+Rotation (degrees),10.0,no STN,98.94695281982422
+Rotation (degrees),10.0,no augmentation,95.84323167800903
+Rotation (degrees),20.0,final model,98.40063452720642
+Rotation (degrees),20.0,no STN,97.8622317314148
+Rotation (degrees),20.0,no augmentation,81.00554347038269
+Rotation (degrees),30.0,final model,92.67616868019104
+Rotation (degrees),30.0,no STN,88.9311134815216
+Rotation (degrees),30.0,no augmentation,38.05225491523743
+Rotation (degrees),40.0,final model,65.59778451919556
+Rotation (degrees),40.0,no STN,52.95328497886658
+Rotation (degrees),40.0,no augmentation,15.645289421081543
+Rotation (degrees),50.0,final model,25.154393911361694
+Rotation (degrees),50.0,no STN,27.973079681396484
+Rotation (degrees),50.0,no augmentation,11.005542427301407

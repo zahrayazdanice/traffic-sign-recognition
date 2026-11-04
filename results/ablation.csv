@@ -1,0 +1,5 @@
+variant,params (M),best val acc (%),test acc (%),test errors,train time (min),change (pp)
+final model,3.32,99.12,99.33,85,8.17,0.0
++ SE attention,3.37,99.07,99.22,99,7.33,-0.11
+no STN,2.77,98.92,99.14,109,5.39,-0.19
+no augmentation,3.32,98.95,97.4,329,6.96,-1.93
